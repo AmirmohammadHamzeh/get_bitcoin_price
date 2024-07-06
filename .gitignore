@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!main.py
+!get_bitcoin_price.py
+
+# Ignore all directories
+*/
